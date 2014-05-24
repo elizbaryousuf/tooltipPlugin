@@ -6,8 +6,8 @@
 (function($) {
 	$.fn.tooltipPlugin = function(ayar) {
 		var deg={
-				tool:'bottom',
-				};
+			tool:'bottom',
+			};
 		var ayar = $.extend(deg,ayar);
 		return this.each(function(){
 		
