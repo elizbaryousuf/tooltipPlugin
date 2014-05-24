@@ -1,11 +1,11 @@
 tooltipPlugin Kullanımı
 =============
 
-$("a").tooltipPlugin();
+$('a').tooltipPlugin();
 
 
 İstenirsede
 
-$("a").tooltipPlugin({
+$('a').tooltipPlugin({
 tool:'top'
 });
